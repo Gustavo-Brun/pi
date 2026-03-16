@@ -1,0 +1,17 @@
+body {
+  padding: 20px;
+}
+
+.container {
+  width: 500px;
+  height: fit-content;
+  background-color: aliceblue;
+  border-radius: 25px;
+  border: solid 2px blue;
+  margin: 20px;
+  padding: 40px;
+}
+
+span {
+  color: navy;
+}
